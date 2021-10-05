@@ -1,0 +1,7 @@
+2021/10/02 19:58:08 main.go:15: test
+2021/10/04 18:17:38 users.go:102: table sessions has no column named email
+2021/10/04 18:17:38 main.go:19: no such column: email
+2021/10/04 18:21:14 users.go:102: table sessions has no column named email
+2021/10/04 18:21:14 main.go:19: no such column: email
+2021/10/04 18:26:18 users.go:102: table sessions has no column named email
+2021/10/04 18:26:18 main.go:19: no such column: email
